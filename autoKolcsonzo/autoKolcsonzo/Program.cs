@@ -116,7 +116,16 @@ namespace Kolcsonzo
 		}
 		
 		
-		
+		public KolcsonozhetoAuto randomHasznaltAuto()
+        {
+			KolcsonozhetoAuto auto = randomUjAuto(1);
+			if (auto.getGyartasEve() == 2021)
+            {
+				auto.setGyartasIdo(auto.getGyartasEve() - 4);
+            }
+			auto.setMegtettKm(362000);
+			return auto;
+        }
 		
 	}
 }

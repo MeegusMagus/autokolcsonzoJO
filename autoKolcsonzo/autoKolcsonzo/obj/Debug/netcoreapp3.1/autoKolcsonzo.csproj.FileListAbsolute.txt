@@ -1,0 +1,14 @@
+C:\Users\Tanulo\source\repos\autokolcsonzoJO\autoKolcsonzo\autoKolcsonzo\bin\Debug\netcoreapp3.1\autoKolcsonzo.exe
+C:\Users\Tanulo\source\repos\autokolcsonzoJO\autoKolcsonzo\autoKolcsonzo\bin\Debug\netcoreapp3.1\autoKolcsonzo.deps.json
+C:\Users\Tanulo\source\repos\autokolcsonzoJO\autoKolcsonzo\autoKolcsonzo\bin\Debug\netcoreapp3.1\autoKolcsonzo.runtimeconfig.json
+C:\Users\Tanulo\source\repos\autokolcsonzoJO\autoKolcsonzo\autoKolcsonzo\bin\Debug\netcoreapp3.1\autoKolcsonzo.runtimeconfig.dev.json
+C:\Users\Tanulo\source\repos\autokolcsonzoJO\autoKolcsonzo\autoKolcsonzo\bin\Debug\netcoreapp3.1\autoKolcsonzo.dll
+C:\Users\Tanulo\source\repos\autokolcsonzoJO\autoKolcsonzo\autoKolcsonzo\bin\Debug\netcoreapp3.1\autoKolcsonzo.pdb
+C:\Users\Tanulo\source\repos\autokolcsonzoJO\autoKolcsonzo\autoKolcsonzo\obj\Debug\netcoreapp3.1\autoKolcsonzo.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\autokolcsonzoJO\autoKolcsonzo\autoKolcsonzo\obj\Debug\netcoreapp3.1\autoKolcsonzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanulo\source\repos\autokolcsonzoJO\autoKolcsonzo\autoKolcsonzo\obj\Debug\netcoreapp3.1\autoKolcsonzo.AssemblyInfoInputs.cache
+C:\Users\Tanulo\source\repos\autokolcsonzoJO\autoKolcsonzo\autoKolcsonzo\obj\Debug\netcoreapp3.1\autoKolcsonzo.AssemblyInfo.cs
+C:\Users\Tanulo\source\repos\autokolcsonzoJO\autoKolcsonzo\autoKolcsonzo\obj\Debug\netcoreapp3.1\autoKolcsonzo.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\autokolcsonzoJO\autoKolcsonzo\autoKolcsonzo\obj\Debug\netcoreapp3.1\autoKolcsonzo.dll
+C:\Users\Tanulo\source\repos\autokolcsonzoJO\autoKolcsonzo\autoKolcsonzo\obj\Debug\netcoreapp3.1\autoKolcsonzo.pdb
+C:\Users\Tanulo\source\repos\autokolcsonzoJO\autoKolcsonzo\autoKolcsonzo\obj\Debug\netcoreapp3.1\autoKolcsonzo.genruntimeconfig.cache
