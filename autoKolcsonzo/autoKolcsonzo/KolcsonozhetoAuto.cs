@@ -19,6 +19,7 @@ namespace Kolcsonzo {
         private int megtettKm;              //RW
         private bool berelheto;             //RW
         private char kategoria;             //RW
+
   
 
 		/*
@@ -75,7 +76,7 @@ namespace Kolcsonzo {
 
         public void setBerelheto(bool szabad) { berelheto = szabad; }
       
-
+        public void setGyartasIdo(int ev) { gyartasEve = ev; }
 
 		/*
          * tagfüggvények
