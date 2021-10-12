@@ -19,6 +19,7 @@ namespace Kolcsonzo {
         private int megtettKm;              //RW
         private bool berelheto;             //RW
         private char kategoria;             //RW
+
   
 
 		/*
